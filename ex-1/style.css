@@ -1,1 +1,16 @@
-/* Start coding here */
+.nav-text{
+    color: #183B56;
+    background-color: #92ABBE;
+    display: flex;
+    text-indent: 5em;
+}
+
+.card{
+    border: 5px solid #000000;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    width: 500px;
+    color: #183B56;
+    background-color: #E4E9ED;
+}
